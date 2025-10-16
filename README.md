@@ -15,21 +15,22 @@ Feel free to explore my repositories to discover academic projects, internships,
 ### 🏆 Certifications
 
 <div align="center">
-  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/caace2cc46b5d9cd4bf9542440a5a01f91d17b06" target="_blank">
-    <img src="https://www.datacamp.com/rascacct/media/caace2cc46b5d9cd4bf9542440a5a01f91d17b06" alt="TensorFlow Cert" width="150"/>
+  <a href="https://coursera.org/share/3830550c73c9e641ed67dce2de028143" target="_blank">
+    <img src="./assets/certifications/genai.png" alt="Generative AI Cert" width="150"/>
   </a>
   <a href="https://learn.nvidia.com/certificates?id=7bfC2IZDSKm4zXFAQhq5pg" target="_blank">
-    <img src="https://developer.nvidia.com/sites/default/files/akamai/certificate-images/7bfC2IZDSKm4zXFAQhq5pg.png" alt="NLP Cert" width="150"/>
+    <img src="./assets/certifications/nvidia.png" alt="NVIDIA NLP Cert" width="150"/>
   </a>
   <a href="https://coursera.org/share/11be3089d2c6dbd105d9d760fed1d003" target="_blank">
-    <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!1200x630/0ac4fa418cf7d14aa66c5e918f6e36c1.jpeg" alt="Web Dev Cert" width="150"/>
+    <img src="./assets/certifications/web.png" alt="Web Dev Cert" width="150"/>
   </a>
-  <a href="https://coursera.org/share/3830550c73c9e641ed67dce2de028143" target="_blank">
-    <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!1200x630/6d6b8b38b4faed46b21aa4e20ff387aa.jpeg" alt="Generative AI Cert" width="150"/>
+  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/caace2cc46b5d9cd4bf9542440a5a01f91d17b06" target="_blank">
+    <img src="./assets/certifications/tensorflow.png" alt="TensorFlow Cert" width="150"/>
   </a>
 </div>
 
 <p align="center"><i>More certifications in progress…</i></p>
+
 
 ---
 
